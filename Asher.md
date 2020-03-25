@@ -21,7 +21,7 @@ Fixing these inconsistencies along with adding examples and project documentatio
 Libraries are plenty but the available examples are nowhere close to what is acceptable and understandable to beginners, from my research during the period after which Arduino was declared as an organization for GSoC, Here are the details of the projects that I would work on for the Summer.
 
 
-### **_<span style="text-decoration:underline;"><span style="text-decoration:underline;">Library Examples</span>_**
+### **Library Examples**
 
 
 <table>
@@ -209,7 +209,7 @@ JoystickMouseControl
 **Note: _All these are just my understanding of the needs of the repositories, I will be open to discussion with the mentors to curate a more fitting set of examples if needed._**
 
 
-### **_<span style="text-decoration:underline;"><span style="text-decoration:underline;">Example Projects for Arduino HUB</span>_**
+### **_Example Projects for Arduino HUB_**
 
 Projects will help understand the function of a library better, HUB provides a really great platform for this purpose. I intend to make and document projects that are based on these examples that I have proposed above subjective to the availability of components. All of which will aid the user to understand the usage of the libraries and their functions better. 	
 
