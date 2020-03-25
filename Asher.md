@@ -9,7 +9,7 @@ Maintaining an updated and rich collection of easy to understand example sketche
 
 The project that I have chosen to propose and pursue under the mentors at Arduino for Google Summer of Code 2020 is briefed in the following paragraphs
 
-Housing about 90 Repositories, very few Libraries are well furnished with examples even though with issues. Most libraries like the **Education Shield, Scheduler, Keyboard, Mouse** have not been updated since their inception.
+Housing about 90 Repositories, very few Libraries are well furnished with examples even though with issues. Most libraries like the `**Education Shield, Scheduler, Keyboard, Mouse**` have not been updated since their inception.
 
 There are also inconsistencies in the availability of Examples in the Repos i.e Examples available to the IDE user may not be available to the ProIDE or Cli users because of their absence in the GitHub Repos.
 
