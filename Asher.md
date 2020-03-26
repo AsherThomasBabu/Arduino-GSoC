@@ -213,7 +213,9 @@ JoystickMouseControl
 
 Projects will help understand the function of a library better, HUB provides a really great platform for this purpose. I intend to make and document projects that are based on these examples that I have proposed above subjective to the availability of components. All of which will aid the user to understand the usage of the libraries and their functions better. 	
 
-The main project that I would like to work on is 
+The main projects that I would like to work on are:
+#### Simple Arduino Music Player with LCD Display and Capacitive Buttons
+#### Accelerometer Mouse
 
 
 # **Schedule of Deliverables**
