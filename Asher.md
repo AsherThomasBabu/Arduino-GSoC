@@ -270,26 +270,28 @@ JoystickMouseControl
 Projects will help understand the function of a library better, HUB provides a really great platform for this purpose. I intend to make and document projects that are based on these examples that I have proposed above subjective to the availability of components. All of which will aid the user to understand the usage of the libraries and their functions better. 	
 
 The main projects that I would like to work on are:
-#### Simple Arduino Music Player with LCD Display and Capacitive Buttons
- **DETAILS(Schematic,Code snippets) YET TO BE ADDED**
-#### Accelerometer Mouse
+* Simple Arduino Music Player with LCD Display and Capacitive Buttons
+
+* Accelerometer Mouse
 
 
 # **Schedule of Deliverables**
 
+### Application Review Period (March 31, 2020 - April 30, 2020)
+* Go through all 90 repositories under arduino-official libraries.
+* Fix issues and create necessary pull-requests.
+### **Community Bonding Period** (May 4, 2020 - May 31, 2020)
 
-### **Community Bonding Period**
+* My objective for the Community Bonding Period will be to initially get off on the right foot with my mentor and get to understand the needs of the Organization during the aforesaid period of time.
 
-My objective for the Community Bonding Period will be to initially get off on the right foot with my mentor and get to understand the needs of the Organization during the aforesaid period of time.
+* Keeping my proposal in mind, I will work with the mentors to create a more refined and better plan for the coding period.
 
-Keeping my proposal in mind, I will work with the mentors to create a more refined and better plan for the coding period.
+* Also, during this period I will try to work with the mentors to solve and fix issues that arise in the community to the best of my abilities in order to better understand the style of documentation and the structure of Examples that I have to maintain.
 
-Also, during this period I will try to work with the mentors to solve and fix issues that arise in the community to the best of my abilities in order to better understand the style of documentation and the structure of Examples that I have to maintain.
-
-And as mentioned in the Guide to the proposal, I will get hands-on experience of the Arduino and the modules that I plan to use. 
+* And as mentioned in the Guide to the proposal, I will get hands-on experience of the Arduino and the modules that I plan to use. 
 
 
-### **Phase 1**
+### **Phase 1**(June 1, 2020 - July 3, 2020)
 
 
 
@@ -298,7 +300,7 @@ And as mentioned in the Guide to the proposal, I will get hands-on experience of
 *   This phase will last about half of the coding period. I.e. one and a half months.
 
 
-### **Phase 2**
+### **Phase 2** (July 4, 2020 - July 31, 2020)
 
 
 
@@ -307,16 +309,17 @@ And as mentioned in the Guide to the proposal, I will get hands-on experience of
 *   This phase is bound to last around one month.
 
 
-### **Phase 3**
+### **Phase 3** (August 1, 2020 - August 23, 2020)
 
 
 
 *   This shall be the last few days before the final week where all the code is made public, and the mentor and I together review all the work and do the necessary corrections and also finish uploading the projects to Arduino HUB.
 
 
-### **Final Week**
+### **Final Week** (August 24, 2020 - August 31, 2020)
 
-All the above-mentioned code shall be completed along with documentation and will be pushed to the public repository. Decided upon projects shall be documented and uploaded to Arduino Project Hub. 
+
+* All the above-mentioned code shall be completed along with documentation and will be pushed to the public repository. Decided upon projects shall be documented and uploaded to Arduino Project Hub. 
 
 
 # **Development Experience**
