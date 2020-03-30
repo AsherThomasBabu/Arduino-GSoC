@@ -20,27 +20,26 @@ Fixing these inconsistencies along with adding examples and project documentatio
 
 Libraries are plenty but the available examples are nowhere close to what is acceptable and understandable to beginners, from my research during the period after which Arduino was declared as an organization for GSoC, Here are the details of the projects that I would work on for the Summer.
 
-
-### **Library Examples**
-
 The Examples I Propose to add are spread across a wide range, I selected these libraries after going through the current status of their examples availability and understandability of the fucntions.
 **To demonstrate my ability to contribute to Arduino during the course of the mentorship, I have curated a simple example to be added to the core library at https://github.com/arduino/Arduino/tree/master/build/shared/examples/01.Basics/**
 
 #### Description (to be added as ControlledFade.txt)
 ``` 
 Reading a Potentiometer (analog input)
-A potentiometer is a simple knob that provides a variable resistance, which we can read into the Arduino board as an analog value. 
-In this example, that value controls the brightness of an LED.
+A potentiometer is a simple knob that provides a variable resistance, which we can read into the Arduino board 
+as an analog value. In this example, that value controls the brightness of an LED.
 
-We connect three wires to the Arduino board. The first goes to ground from one of the outer pins of the potentiometer. 
+We connect three wires to the Arduino board. The first goes to ground from one of the outer pins of the 
+potentiometer. 
 The second goes from 5 volts to the other outer pin of the potentiometer. 
 The third goes from analog input 2 to the middle pin of the potentiometer.
 
-By turning the shaft of the potentiometer, we change the amount of resistence on either side of the wiper which is connected to the 
-center pin of the potentiometer. This changes the relative "closeness" of that pin to 5 volts and ground, giving us a different analog 
-input. When the shaft is turned all the way in one direction, there are 0 volts going to the pin, and we read 0. When the shaft is 
-turned all the way in the other direction, there are 5 volts going to the pin and we read 1023. In between, analogRead() returns a 
-number between 0 and 1023 that is proportional to the amount of voltage being applied to the pin. 
+By turning the shaft of the potentiometer, we change the amount of resistence on either side of the wiper which 
+is connected to the center pin of the potentiometer. This changes the relative "closeness" of that pin to 
+5 volts and ground, giving us a different analog input. When the shaft is turned all the way in one direction,
+there are 0 volts going to the pin, and we read 0. When the shaft is turned all the way in the other direction,
+there are 5 volts going to the pin and we read 1023. In between, analogRead() returns a number between 0 and 1023 
+that is proportional to the amount of voltage being applied to the pin. 
 ```
 #### Schematic: <br>
 ![alt text](https://i0.wp.com/owenmundy.com/blog/wp-content/uploads/2010/05/potentiometer_to_led.png?w=600 "Schematic")
@@ -76,10 +75,11 @@ void loop() {
 ```   
 To have an insight on my familiarity with GitHub, Kindly check my Development Experiences section.
 I have also made a tutorial on this project for arduinohub.
-Please find it at:
+Please find it at: https://create.arduino.cc/projecthub/ashertb2000/controlledfade-using-potentiometer-b403c6
 
 My approach to proposal to other examples for specific libraries come from the concern for **need of examples that cover all the fuctions of a specific library** and not quantity. I have tabulated below the necesisities that I found, and my proposed examples
 
+### **Library Examples**
 <table>
   <tr>
    <td>
