@@ -41,10 +41,10 @@ there are 0 volts going to the pin, and we read 0. When the shaft is turned all 
 there are 5 volts going to the pin and we read 1023. In between, analogRead() returns a number between 0 and 1023 
 that is proportional to the amount of voltage being applied to the pin. 
 ```
-#### Schematic: <br>
+#### Schematic (ControlledFade.png): <br>
 ![alt text](https://i0.wp.com/owenmundy.com/blog/wp-content/uploads/2010/05/potentiometer_to_led.png?w=600 "Schematic")
 
-#### Code
+#### Code (ControlledFade.ino)
 ```C++
 /* Analog Read to LED
  * ------------------ 
