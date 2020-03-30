@@ -20,7 +20,7 @@ Fixing these inconsistencies along with adding examples and project documentatio
 
 Libraries are plenty but the available examples are nowhere close to what is acceptable and understandable to beginners, from my research during the period after which Arduino was declared as an organization for GSoC, Here are the details of the projects that I would work on for the Summer.
 
-The Examples I Propose to add are spread across a wide range, I selected these libraries after going through the current status of their examples availability and understandability of the fucntions.
+The Examples I Propose to add are spread across a wide range, I selected these libraries after going through the current status of their examples availability and understandability of the fucntions.<br>
 **To demonstrate my ability to contribute to Arduino during the course of the mentorship, I have curated a simple example to be added to the core library at https://github.com/arduino/Arduino/tree/master/build/shared/examples/01.Basics/**
 
 #### Description (to be added as ControlledFade.txt)
