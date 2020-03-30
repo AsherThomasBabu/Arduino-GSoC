@@ -73,7 +73,7 @@ void loop() {
   analogWrite(ledPin, val);    // sets the LED brigthness to the value read from the potentiometer
 }
 ```   
-To have an insight on my familiarity with GitHub, Kindly check my Development Experiences section.
+To have an insight on my familiarity with GitHub, Kindly check my [Development Experiences](https://github.com/AsherThomasBabu/Arduino-GSoC/blob/master/Asher.md#development-experience) section.<br>
 I have also made a tutorial on this project for arduinohub.
 Please find it at: https://create.arduino.cc/projecthub/ashertb2000/controlledfade-using-potentiometer-b403c6
 
