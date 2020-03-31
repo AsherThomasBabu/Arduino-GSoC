@@ -298,7 +298,9 @@ The main projects that I would like to work on are:
 
 ### Application Review Period (March 31, 2020 - April 30, 2020)
 * I have approached the Developers community to start work on an export feature for the Arduino IDE Mentioned in [#9479](https://github.com/arduino/Arduino/issues/9479). I will work on that to get familiar with the codebase and get familiar with the community.
+
 * Go through all 90 repositories under arduino-official libraries.
+
 * Fix issues and create necessary pull-requests.
 
 ### **Community Bonding Period** (May 4, 2020 - May 31, 2020)
@@ -316,25 +318,34 @@ The main projects that I would like to work on are:
 
 
 
-*   Will work towards completing all of the Mentioned Examples at a minimal rate of 2 - 3 per week, completing the required documentation and the required schematics of each example.
+*   Will work towards completing half of the Mentioned Examples at a rate of 2 - 3 per week, completing the required documentation and the required schematics of each example and regularly pushing to the public repository.
+
 *   Code and diagrams will be regularly pushed to the public repository and will constantly communicate with the mentor to keep my work validated.
-*   This phase will last about half of the coding period. I.e. one and a half months.
+
+*   This phase will last about one month.
 
 
 ### **Phase 2** (July 4, 2020 - July 31, 2020)
 
 
 
-*   This phase shall be more focused on Building the Projects and documenting the process of doing so.
-*   A list of projects will be continually discussed with mentors and errors corrected along the way.
+*   This phase shall be more focused on the second half of the Mentioned examples at the same rate so as to complete the proposed examples.
+
+*   Issues with previous examples will be rectified acording to mentor advice.
+
+*   A list of projects to be documented for prohecthub will be continually discussed with mentors and finalised along the way.
+
 *   This phase is bound to last around one month.
 
 
 ### **Phase 3** (August 1, 2020 - August 23, 2020)
 
 
+*   This time shall be utilised for creating and documenting the projects required for project hub.
 
-*   This shall be the last few days before the final week where all the code is made public, and the mentor and I together review all the work and do the necessary corrections and also finish uploading the projects to Arduino HUB.
+*   This time shall also be utilised for the correction of the issues encountered in the previously curated examples.
+
+*   This shall be the last 20 days before the final week where all the code is made public, and the mentor and I together review all the work and do the necessary corrections and also finish uploading the projects to Arduino HUB.
 
 
 ### **Final Week** (August 24, 2020 - August 31, 2020)
@@ -363,6 +374,7 @@ I have also been contributing to the **Arduino community** for about a month and
 6. [arduino-libraries/CapacitiveSensor#3](https://github.com/arduino-libraries/CapacitiveSensor/pull/3) **(Approved)** Fixing an inconsistency in the markdown of the readme file.
 7. [arduino-libraries/Servo#41](https://github.com/arduino-libraries/Servo/pull/41) Added an example for the Servo Library.
 8. [arduino-libraries/Ciao#7](https://github.com/arduino-libraries/Ciao/pull/7) **(Approved)** Updated a broken Readme 
+9. [arduino-libraries/SD#79](https://github.com/arduino-libraries/SD/pull/79)
 
 Apart from that 
 
