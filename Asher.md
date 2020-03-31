@@ -290,6 +290,7 @@ Projects will help understand the function of a library better, HUB provides a r
 The main projects that I would like to work on are:
 * Simple Arduino Music Player with LCD Display and Capacitive Buttons
 
+![alt text](https://drive.google.com/open?id=11JQLGNQTnRgq6pu7ZfFMdIsDoyvWiQkj "Block Diagram")
 * Accelerometer Mouse
 
 
