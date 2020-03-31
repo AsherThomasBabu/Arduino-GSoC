@@ -290,7 +290,7 @@ Projects will help understand the function of a library better, HUB provides a r
 The main projects that I would like to work on are:
 * Simple Arduino Music Player with LCD Display and Capacitive Buttons
 
-![alt text](https://drive.google.com/open?id=11JQLGNQTnRgq6pu7ZfFMdIsDoyvWiQkj "Block Diagram")
+![alt text](https://lh3.googleusercontent.com/T3gdhtJ4sJCpxy8R716tS312j8pBG7jRrVBmqXPh0OJxbO4O7_CbOeuH4fjuVjOqlrsrQqaL0-9sgf5LCR2MhNqhyfrFHLvB5PRu1_4k5yskAlqdVtoqIFM6FJ_2R08B-TAdL2bISvxSrE5AueJAgyBf_aLiSCItuJzb_NFq2lpx2-jkhdUYf7sGs2A9RjE1WqXNnjK9OOx86ibt3SnLNZb6utYVARHgjpbFEexMI3WxWJIPIq1MIEGet9VTYZTPcyBkg7uK5LWqBsP5C6Ko7dts5_jxaKqOdCKmqPxJe94K70C-LOZghEBpmojq3Svv9WuCpHHzSK7b0CIygvwOG5G04sSVy5-ecu3k45B-pC8koUiszGSMST7DObnDkiZNc4MyuLUDZqg5m4OOhX2iOKa3z3FUZZ1igT7-rj_hzS078wvdV-f3wKaPm6OYxQ0DQcq9bKATdU0rDhli2qOfF05sapSmGAHm_Ao8OGFnSe3VTfj3lA3wk3ZUtvsoCXCLOdeRYYyfQxDWum8GKpzk0KFLNkkUKEfGJT9B-UFwO_XP3TtfD1VZ3zBaynXeV3jsZZ9b0UmOBOvWOSojL48DGuYP3kudy0sxqrtbNb2V28j0KRq5qlzolrEyVMXtYoUOUlB7_aPt3BlF20GiuVumk-u17Ap9JF4Q5GonP53wTQB6ZwYoljAz3jcRJd0e700=w418-h312-no "Block Diagram")
 * Accelerometer Mouse
 
 
