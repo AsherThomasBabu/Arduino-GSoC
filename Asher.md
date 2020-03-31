@@ -294,8 +294,10 @@ The main projects that I would like to work on are:
 # **Schedule of Deliverables**
 
 ### Application Review Period (March 31, 2020 - April 30, 2020)
+* I have approached the Developers community to start work on an export feature for the Arduino IDE Mentioned in [#9479](https://github.com/arduino/Arduino/issues/9479). I will work on that to get familiar with the codebase and get familiar with the community.
 * Go through all 90 repositories under arduino-official libraries.
 * Fix issues and create necessary pull-requests.
+
 ### **Community Bonding Period** (May 4, 2020 - May 31, 2020)
 
 * My objective for the Community Bonding Period will be to initially get off on the right foot with my mentor and get to understand the needs of the Organization during the aforesaid period of time.
