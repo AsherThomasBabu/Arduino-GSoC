@@ -309,7 +309,7 @@ The main projects that I would like to work on are:
 * And as mentioned in the Guide to the proposal, I will get hands-on experience of the Arduino and the modules that I plan to use. 
 
 
-### **Phase 1**(June 1, 2020 - July 3, 2020)
+### **Phase 1** (June 1, 2020 - July 3, 2020)
 
 
 
@@ -359,6 +359,7 @@ I have also been contributing to the **Arduino community** for about a month and
 5. [arduino-libraries/Keyboard#31](https://github.com/arduino-libraries/Keyboard/pull/31) Added a HelloWorld Example to the Keyboard Library
 6. [arduino-libraries/CapacitiveSensor#3](https://github.com/arduino-libraries/CapacitiveSensor/pull/3) **(Approved)** Fixing an inconsistency in the markdown of the readme file.
 7. [arduino-libraries/Servo#41](https://github.com/arduino-libraries/Servo/pull/41) Added an example for the Servo Library.
+8. [arduino-libraries/Ciao#7](https://github.com/arduino-libraries/Ciao/pull/7) **(Approved)** Updated a broken Readme 
 
 Apart from that 
 
