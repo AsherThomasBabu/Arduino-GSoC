@@ -2,7 +2,7 @@
 
 **Name:**  *Asher Thomas Babu*
 
-**GitHub Username:** *[AsherThomasBabu](https://github.com/AsherThomasBabu)*
+**GitHub Username:** *[@AsherThomasBabu](https://github.com/AsherThomasBabu)*
 
 **GithubIssueTracker:** https://github.com/arduino/summer-of-code/issues/82
 
