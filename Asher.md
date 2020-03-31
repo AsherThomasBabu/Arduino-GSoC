@@ -375,6 +375,7 @@ I have also been contributing to the **Arduino community** for about a month and
 7. [arduino-libraries/Servo#41](https://github.com/arduino-libraries/Servo/pull/41) Added an example for the Servo Library.
 8. [arduino-libraries/Ciao#7](https://github.com/arduino-libraries/Ciao/pull/7) **(Approved)** Updated a broken Readme 
 9. [arduino-libraries/SD#79](https://github.com/arduino-libraries/SD/pull/79)
+10. [arduino/Arduino#9479](https://github.com/arduino/Arduino/issues/9479) **Working on adding an Export feature to SerialMonitor**
 
 Apart from that 
 
