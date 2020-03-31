@@ -383,7 +383,8 @@ I Have been working on Arduino based projects for more than 3 years now, I Have 
 
 Every time I choose to work on a new module, or a library, the first thing that I often consult is the examples and the documentation. I chose to work with this organization and this project only because of the reason that I love the Arduino Community and wanted to give to the community what it had given me. I learned about Arduino being part of the Google Summer of Code and I immediately set out to understand the codebase and the needs. 
 
-Being a part of GSoC was a big dream of mine, but 
+Being a part of GSoC was a big dream of mine, but tech-stacks of various organisations seemed intimidating, The reason why I decided to focus on Arduino ( only one organisation and one project ) for this edition of GSoC is becaude I wanted to work with something that i could relate to and which is my inerest rather than doing something for the sake of it.
+
 Having the required skill set and exposure towards the necessary tools, I was sure I could attempt to cater to the needs of Arduino through this project. Also having written quite a good amount of Arduino code for various projects in school and college and also having experience in documenting projects, I decided that this project was the best fit for me and I haven’t turned on that decision ever since.
 
 
