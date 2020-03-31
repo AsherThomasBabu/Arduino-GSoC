@@ -25,7 +25,7 @@ Maintaining an updated and rich collection of easy to understand example sketche
 
 The project that I have chosen to propose and pursue under the mentors at Arduino for Google Summer of Code 2020 is briefed in the following paragraphs
 
-Housing about 90 Repositories, very few Libraries are well furnished with examples even though with issues. Most libraries like the `Education Shield`,`Scheduler`, `Keyboard`, `Mouse` have not been updated since their inception.
+Housing about 90 Repositories, very few Libraries are well furnished with examples even though with issues. Most libraries like the `Education Shield`, `Scheduler`, `Keyboard`, `Mouse` have not been updated since their inception.
 
 There are also inconsistencies in the availability of Examples in the Repos i.e Examples available to the IDE user may not be available to the ProIDE or Cli users because of their absence in the GitHub Repos.
 
@@ -36,8 +36,8 @@ Fixing these inconsistencies along with adding examples and project documentatio
 
 Libraries are plenty but the available examples are nowhere close to what is acceptable and understandable to beginners, from my research during the period after which Arduino was declared as an organization for GSoC, Here are the details of the projects that I would work on for the Summer.
 
-The Examples I Propose to add are spread across a wide range, I selected these libraries after going through the current status of their examples availability and understandability of the fucntions.<br>
-**To demonstrate my ability to contribute to Arduino during the course of the mentorship, I have curated a simple example to be added to the core library at https://github.com/arduino/Arduino/tree/master/build/shared/examples/01.Basics/**
+The Examples I Propose to add are spread across a wide range, I selected these libraries after going through the current status of their examples availability and understandability of the functions.<br>
+**To demonstrate my ability to contribute to Arduino during the mentorship, I have curated a simple example to be added to the core library at https://github.com/arduino/Arduino/tree/master/build/shared/examples/01.Basics/**
 
 #### Description (to be added as ControlledFade.txt)
 ``` 
@@ -45,16 +45,16 @@ Reading a Potentiometer (analog input)
 A potentiometer is a simple knob that provides a variable resistance, which we can read into the Arduino board 
 as an analog value. In this example, that value controls the brightness of an LED.
 
-We connect three wires to the Arduino board. The first goes to ground from one of the outer pins of the 
+We connect three wires to the Arduino board. The first goes to ground from one of the outer pins of the
 potentiometer. 
 The second goes from 5 volts to the other outer pin of the potentiometer. 
 The third goes from analog input 2 to the middle pin of the potentiometer.
 
-By turning the shaft of the potentiometer, we change the amount of resistence on either side of the wiper which 
+By turning the shaft of the potentiometer, we change the amount of resistance on either side of the wiper which
 is connected to the center pin of the potentiometer. This changes the relative "closeness" of that pin to 
 5 volts and ground, giving us a different analog input. When the shaft is turned all the way in one direction,
-there are 0 volts going to the pin, and we read 0. When the shaft is turned all the way in the other direction,
-there are 5 volts going to the pin and we read 1023. In between, analogRead() returns a number between 0 and 1023 
+0 volts are going to the pin, and we read 0. When the shaft is turned all the way in the other direction,
+5 volts are going to the pin and we read 1023. In between, analogRead() returns a number between 0 and 1023 
 that is proportional to the amount of voltage being applied to the pin. 
 ```
 #### Schematic (ControlledFade.png): <br>
@@ -93,9 +93,9 @@ void loop() {
 To have an insight on my familiarity with GitHub, Kindly check my [Development Experiences](https://github.com/AsherThomasBabu/Arduino-GSoC/blob/master/Asher.md#development-experience) section.<br>
 I have also taken care to go through the [CONTRIBUTION GUIDELINES](https://github.com/arduino/Arduino/blob/master/CONTRIBUTING.md) and followed them in my example<br>
 I have also made a tutorial on this project for arduinohub.
-Please find it at: https://create.arduino.cc/projecthub/ashertb2000/controlledfade-using-potentiometer-b403c6
+Please find it at https://create.arduino.cc/projecthub/ashertb2000/controlledfade-using-potentiometer-b403c6
 
-My approach to proposal to other examples for specific libraries come from the concern for **need of examples that cover all the fuctions of a specific library** and not quantity. I have tabulated below the necesisities that I found, and my proposed examples
+My approach to the proposal for other examples for specific libraries come from the concern for **need of examples that cover all the functions of a specific library** and not quantity. I have tabulated below the necessities that I found, and my proposed examples
 
 ### **Library Examples**
 <table>
@@ -285,7 +285,7 @@ JoystickMouseControl
 
 ### **_Example Projects for Arduino HUB_**
 
-Projects will help understand the function of a library better, HUB provides a really great platform for this purpose. I intend to make and document projects that are based on these examples that I have proposed above subjective to the availability of components. All of which will aid the user to understand the usage of the libraries and their functions better. 	
+Projects will help understand the function of a library better, HUB provides a great platform for this purpose. I intend to make and document projects that are based on these examples that I have proposed above subjective to the availability of components. All of which will aid the user to understand the usage of the libraries and their functions better.     
 
 The main projects that I would like to work on are:
 * Simple Arduino Music Player with LCD Display and Capacitive Buttons
@@ -299,17 +299,17 @@ The main projects that I would like to work on are:
 ### Application Review Period (March 31, 2020 - April 30, 2020)
 * I have approached the Developers community to start work on an export feature for the Arduino IDE Mentioned in [#9479](https://github.com/arduino/Arduino/issues/9479). I will work on that to get familiar with the codebase and get familiar with the community.
 
-* Go through all 90 repositories under arduino-official libraries.
+* Go through all 90 repositories under Arduino-official libraries.
 
 * Fix issues and create necessary pull-requests.
 
 ### **Community Bonding Period** (May 4, 2020 - May 31, 2020)
 
-* My objective for the Community Bonding Period will be to initially get off on the right foot with my mentor and get to understand the needs of the Organization during the aforesaid period of time.
+* My objective for the Community Bonding Period will be to initially get off on the right foot with my mentor and get to understand the needs of the Organization during the aforesaid period.
 
 * Keeping my proposal in mind, I will work with the mentors to create a more refined and better plan for the coding period.
 
-* Also, during this period I will try to work with the mentors to solve and fix issues that arise in the community to the best of my abilities in order to better understand the style of documentation and the structure of Examples that I have to maintain.
+* Also, during this period I will try to work with the mentors to solve and fix issues that arise in the community to the best of my abilities to better understand the style of documentation and the structure of Examples that I have to maintain.
 
 * And as mentioned in the Guide to the proposal, I will get hands-on experience of the Arduino and the modules that I plan to use. 
 
@@ -329,11 +329,11 @@ The main projects that I would like to work on are:
 
 
 
-*   This phase shall be more focused on the second half of the Mentioned examples at the same rate so as to complete the proposed examples.
+*   This phase shall be more focused on the second half of the Mentioned examples at the same rate to complete the proposed examples.
 
-*   Issues with previous examples will be rectified acording to mentor advice.
+*   Issues with previous examples will be rectified according to mentor advice.
 
-*   A list of projects to be documented for prohecthub will be continually discussed with mentors and finalised along the way.
+*   A list of projects to be documented for the project hub will be continually discussed with mentors and finalized along the way.
 
 *   This phase is bound to last around one month.
 
@@ -341,9 +341,9 @@ The main projects that I would like to work on are:
 ### **Phase 3** (August 1, 2020 - August 23, 2020)
 
 
-*   This time shall be utilised for creating and documenting the projects required for project hub.
+*   This time shall be utilized for creating and documenting the projects required for the project hub.
 
-*   This time shall also be utilised for the correction of the issues encountered in the previously curated examples.
+*   This time shall also be utilized for the correction of the issues encountered in the previously curated examples.
 
 *   This shall be the last 20 days before the final week where all the code is made public, and the mentor and I together review all the work and do the necessary corrections and also finish uploading the projects to Arduino HUB.
 
@@ -396,9 +396,9 @@ I Have been working on Arduino based projects for more than 3 years now, I Have 
 
 Every time I choose to work on a new module, or a library, the first thing that I often consult is the examples and the documentation. I chose to work with this organization and this project only because of the reason that I love the Arduino Community and wanted to give to the community what it had given me. I learned about Arduino being part of the Google Summer of Code and I immediately set out to understand the codebase and the needs. 
 
-Being a part of GSoC was a big dream of mine, but tech-stacks of various organisations seemed intimidating, The reason why I decided to focus on Arduino ( only one organisation and one project ) for this edition of GSoC is becaude I wanted to work with something that i could relate to and which is my inerest rather than doing something for the sake of it.
+Being a part of GSoC was a big dream of mine, but tech-stacks of various organizations seemed intimidating, The reason why I decided to focus on Arduino ( only one organization and one project ) for this edition of GSoC is that I wanted to work with something that I could relate to and which is my interest rather than doing something for the sake of it.
 
-Having the required skill set and exposure towards the necessary tools, I was sure I could attempt to cater to the needs of Arduino through this project. Also having written quite a good amount of Arduino code for various projects in school and college and also having experience in documenting projects, I decided that this project was the best fit for me and I haven’t turned on that decision ever since.
+Having the required skillset and exposure towards the necessary tools, I was sure I could attempt to cater to the needs of Arduino through this project. Also having written quite a good amount of Arduino code for various projects in school and college and also having experience in documenting projects, I decided that this project was the best fit for me and I haven’t turned on that decision ever since.
 
 
 # **Do you have any other commitments during the GSoC period?**
