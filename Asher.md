@@ -6,7 +6,7 @@
 
 **GithubIssueTracker:** https://github.com/arduino/summer-of-code/issues/82
 
-**Email:** asher.thomas.babu@ieee.org
+**Email:** ashertb2000@gmail.com
 
 **Contact** +919847507460
 
