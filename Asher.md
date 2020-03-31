@@ -58,6 +58,7 @@ there are 5 volts going to the pin and we read 1023. In between, analogRead() re
 that is proportional to the amount of voltage being applied to the pin. 
 ```
 #### Schematic (ControlledFade.png): <br>
+_Created using [Frtizing](www.frtxing.org)_
 ![alt text](https://i0.wp.com/owenmundy.com/blog/wp-content/uploads/2010/05/potentiometer_to_led.png?w=600 "Schematic")
 
 #### Code (ControlledFade.ino)
