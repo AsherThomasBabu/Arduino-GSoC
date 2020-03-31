@@ -27,7 +27,7 @@ The project that I have chosen to propose and pursue under the mentors at Arduin
 
 Housing about 90 Repositories, very few Libraries are well furnished with examples even though with issues. Most libraries like the `Education Shield`, `Scheduler`, `Keyboard`, `Mouse` have not been updated since their inception.
 
-There are also inconsistencies in the availability of Examples in the Repos i.e Examples available to the IDE user may not be available to the ProIDE or Cli users because of their absence in the GitHub Repos.
+There are also inconsistencies in the availability of Examples in the Repos i.e Examples available to the IDE user may not be available to the ProIDE or Cli users because of their absence in the GitHub Repositories.
 
 Fixing these inconsistencies along with adding examples and project documentation for existing and new examples for easier understanding of these libraries shall be my main motive during the mentorship period.
 
@@ -36,7 +36,7 @@ Fixing these inconsistencies along with adding examples and project documentatio
 
 Libraries are plenty but the available examples are nowhere close to what is acceptable and understandable to beginners, from my research during the period after which Arduino was declared as an organization for GSoC, Here are the details of the projects that I would work on for the Summer.
 
-The Examples I Propose to add are spread across a wide range, I selected these libraries after going through the current status of their examples availability and understandability of the functions.<br>
+The Examples I Propose to add are spread across a wide range, I selected these libraries after going through the current status of their examples availability and understandability of the available functions.<br>
 **To demonstrate my ability to contribute to Arduino during the mentorship, I have curated a simple example to be added to the core library at https://github.com/arduino/Arduino/tree/master/build/shared/examples/01.Basics/**
 
 #### Description (to be added as ControlledFade.txt)
@@ -124,7 +124,7 @@ My approach to the proposal for other examples for specific libraries come from 
   <tr>
    <td rowspan="3" >1.
    </td>
-   <td rowspan="3" >Servo 
+   <td rowspan="3" >Servo (Lacks xamples that help undertand function like `writeMilli()` etc.
    </td>
    <td>JoyStickControl
    </td>
