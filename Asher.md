@@ -124,7 +124,7 @@ My approach to the proposal for other examples for specific libraries come from 
   <tr>
    <td rowspan="3" >1.
    </td>
-   <td rowspan="3" >Servo (Lacks xamples that help undertand function like `writeMilli()` etc.
+   <td rowspan="3" >Servo <br> (Lacks examples that help undertand function like writeMilli() etc.
    </td>
    <td>JoyStickControl
    </td>
